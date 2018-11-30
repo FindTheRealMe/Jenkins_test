@@ -1,8 +1,6 @@
 #coding:utf-8
 '''
-Created on 2016年9月12日
-
-@author: sidaigang
+for test
 '''
 
 import pymongo
